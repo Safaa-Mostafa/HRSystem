@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\obj\Debug\net8.0\HRManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\obj\Debug\net8.0\HRManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\obj\Debug\net8.0\HRManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\obj\Debug\net8.0\HRManagement.DAL.AssemblyInfo.cs
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\obj\Debug\net8.0\HRManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\bin\Debug\net8.0\HRManagement.DAL.deps.json
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\bin\Debug\net8.0\HRManagement.DAL.runtimeconfig.json
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\bin\Debug\net8.0\HRManagement.DAL.dll
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\bin\Debug\net8.0\HRManagement.DAL.pdb
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\obj\Debug\net8.0\HRManagement.DAL.dll
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\obj\Debug\net8.0\refint\HRManagement.DAL.dll
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\obj\Debug\net8.0\HRManagement.DAL.pdb
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\obj\Debug\net8.0\HRManagement.DAL.genruntimeconfig.cache
+C:\Users\MSI\source\repos\HRManagement\HRManagement.DAL\obj\Debug\net8.0\ref\HRManagement.DAL.dll
